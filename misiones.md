@@ -9,3 +9,6 @@
 7. Buscar cabina para cambio de identidad
 8. Limpiar mis gafas sin graduación
 9. Alejarme de la kriptonita
+10. Plan de entrenamiento de flash
+11. Correr a menos de 2min/km a ritmo suave.
+12. Ingerir carbohidratos.
