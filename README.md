@@ -4,3 +4,4 @@
 
 
 # Noves actualitzacions del fitxer readme des de VSC
+## Canvis nous des de git hub
